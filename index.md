@@ -23,38 +23,38 @@ ___
 
 <br/>
 <img src="img/iml.png" class="img-responsive" alt="" width="80" height="80" />
-#### Intelligent Mobility Labs, Bengaluru
+> #### Intelligent Mobility Labs, Bengaluru
 
-Robotics Engineer in ROS team
+> Robotics Engineer in ROS team
 <br/>
-November 2020 - Present
+> November 2020 - Present
 
 
 <br/>
 <img src="img/trac.png" class="img-responsive" alt="" width="100" height="80" />
-#### The Radio Astronomy Club, BITS Pilani
+> #### The Radio Astronomy Club, BITS Pilani
 
-Deep Learning & Data Analysis team
+> Deep Learning & Data Analysis team
 <br/>
-September 2020 - Present
+> September 2020 - Present
 
 
 <br/>
 <img src="img/sally.png" class="img-responsive" alt="" width="120" height="80" />
-#### Sally Robotics, BITS Pilani
+> #### Sally Robotics, BITS Pilani
 
-SLAM researcher in SLAM team
+> SLAM researcher in SLAM team
 <br/>
-May 2020 - Present
+> May 2020 - Present
 
 
 <br/>
 <img src="img/csa.png" class="img-responsive" alt="" width="80" height="80" />
-#### Computer Science Association, BITS Pilani
+> #### Computer Science Association, BITS Pilani
 
-Machine Learning member in ML SIG
+> Machine Learning member in ML SIG
 <br/>
-January 2020 - Present
+> January 2020 - Present
 
 
 ___
@@ -69,18 +69,18 @@ ___
 
 #### Birla Institute of Technology and Science, Pilani, India
 
-B.E. Mechanical Engineering 
+> B.E. Mechanical Engineering 
 <br/>
-August 2019 - May 2023
+> August 2019 - May 2023
 
 
 <br/>
 <img src="img/dav.png" class="img-responsive" alt="" width="100" height="80" />
 
 #### DAV Public School, Sector 14, Faridabad, Haryana, India
-CBSE
+> CBSE
 <br/>
-2004-2018
+> 2004-2018
 
 
 ___
