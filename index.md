@@ -11,7 +11,6 @@ My name is Kanishk Vishwakarma. I’m a B.E. Mechanical Engineering student at B
 
 My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
 ___
-<br/><br/>
 ### Experience
 
 <br/>
@@ -47,8 +46,6 @@ January 2020 - Present
 
 
 ___
-<br/>
-
 
 
 ### Education
@@ -69,7 +66,6 @@ B.E. Mechanical Engineering (2019-2023)
 
 
 ___
-<br/>
 
 
 #### Skills
@@ -92,7 +88,6 @@ ___
 
 ___
 
-<br/><br/>
 
 ##### Look me up on
 - <img src="img/github.png" class="img-responsive" alt="" width="20" height="20" /> [GitHub](https://github.com/kanishk598)
