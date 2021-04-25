@@ -11,7 +11,7 @@ My interests lie in robotics research, particularly autonomous navigation and co
 #### Birla Institute of Technology and Science, Pilani, India
 B.E. Mechanical Engineering (2019-2023)
 
-<img src="img/dav.png" class="img-responsive" alt="" width="120" height="80" />
+<img src="img/dav.png" class="img-responsive" alt="" width="100" height="80" />
 #### DAV Public School, Sector 14, Faridabad, Haryana, India
 2004-2018
 
