@@ -1,5 +1,6 @@
 ## Welcome to my website
-![Image of Yaktocat](https://github.com/Kanishk598/Kanishk598.github.io/blob/main/cropped.png)
+![Image of Yaktocat](https://github.com/Kanishk598/Kanishk598.github.io/blob/main/cropped.png = 250x250)
+
 I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. I am a part of the SLAM subsystem (Simultaneous Localization & Mapping) at Sally Robotics, a robotics student research club at BITS Pilani, which works on Autonomous Driving. I am also a part of The Radio Astronomy Club, TRAC for short, where I analyze Radio & Gravitational astronomical data with state-of-the-art libraries like AstroPy, PyCBC & Bilby. I am also a Robotics Engineer at Intelligent Mobility Labs, a robotics research lab turned startup targeting India's last-mile delivery robot market. Currently working on 3D inpainting & Deep Learning, robot navigation, trying to make sense of the Vela Pulsar data & working on Sky Watch Array Network.
 
 I like reading on diverse topics like Mathematics, Philosophy, History, Electronics, and self-help books. These days I'm learning PyTorch from the book Deep Learning with PyTorch's TorchVision by Eli et al., Pro Git by Scott & Ben, and many exciting research papers on Deep Learning, Robotics & Astronomy.
