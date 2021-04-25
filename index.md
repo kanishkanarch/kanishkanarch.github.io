@@ -100,7 +100,7 @@ ___
 
 <br/>
 
-### [My Resume](https://www.overleaf.com/read/hrdhdsjjkcgn)
+### **[My Resume](https://www.overleaf.com/read/hrdhdsjjkcgn)**
 
 ___
 
@@ -114,7 +114,7 @@ ___
 - <img src="img/facebook.png" class="img-responsive" alt="" width="20" height="20" /> [Facebook](https://www.facebook.com/kanishk.vishwakarma.3/)
 - <img src="img/insta.png" class="img-responsive" alt="" width="20" height="20" /> [Instagram](https://www.instagram.com/konixboi/)
 
-Contact me on
-- <a href="mailto:f20190315@pilani.bits-pilani.ac.in">My Institute Email</a>
-- <a href="mailto:kanishk.vishwa2001@gmail.com">My Personal Email</a>
-- <a href="tel:+91-9818393114">My Phone</a>
+**Contact me**
+- **<a href="mailto:f20190315@pilani.bits-pilani.ac.in">Institute Email: f20190315@pilani.bits-pilani.ac.in</a>**
+- **<a href="mailto:kanishk.vishwa2001@gmail.com">Personal Email: kanishk.vishwa2001@gmail.com</a>**
+- **<a href="tel:+919818393114">Phone: +91 9818393114</a>**
