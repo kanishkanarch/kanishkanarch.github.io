@@ -12,6 +12,9 @@ My interests lie in robotics research, particularly autonomous navigation and co
 
 ___
 
+<br/>
+
+
 ### Experience
 
 <br/>
@@ -49,6 +52,9 @@ January 2020 - Present
 ___
 
 
+<br/>
+
+
 ### Education
 <br/>
 <img src="img/bits.png" class="img-responsive" alt="" width="80" height="80" />
@@ -67,6 +73,9 @@ B.E. Mechanical Engineering (2019-2023)
 
 
 ___
+
+<br/>
+
 
 
 #### Skills
@@ -92,6 +101,9 @@ ___
 ### [My Resume](https://www.overleaf.com/read/hrdhdsjjkcgn)
 
 ___
+
+
+<br/>
 
 
 ##### Look me up on
