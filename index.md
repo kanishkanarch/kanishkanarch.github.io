@@ -1,5 +1,5 @@
 ## Welcome to my website
-![](https://github.com/Kanishk598/Kanishk598.github.io/blob/main/cropped.png =250x250)
+![my-pic](https://github.com/Kanishk598/Kanishk598.github.io/blob/main/cropped.png){:height="36px" width="36px"}
 
 I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. I am a part of the SLAM subsystem (Simultaneous Localization & Mapping) at Sally Robotics, a robotics student research club at BITS Pilani, which works on Autonomous Driving. I am also a part of The Radio Astronomy Club, TRAC for short, where I analyze Radio & Gravitational astronomical data with state-of-the-art libraries like AstroPy, PyCBC & Bilby. I am also a Robotics Engineer at Intelligent Mobility Labs, a robotics research lab turned startup targeting India's last-mile delivery robot market. Currently working on 3D inpainting & Deep Learning, robot navigation, trying to make sense of the Vela Pulsar data & working on Sky Watch Array Network.
 
