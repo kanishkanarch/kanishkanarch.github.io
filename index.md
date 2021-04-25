@@ -23,7 +23,7 @@ ___
 
 <br/>
 <img src="img/iml.png" class="img-responsive" alt="" width="80" height="80" />
-> #### Intelligent Mobility Labs, Bengaluru
+#### Intelligent Mobility Labs, Bengaluru
 
 > Robotics Engineer in ROS team
 <br/>
@@ -32,7 +32,7 @@ ___
 
 <br/>
 <img src="img/trac.png" class="img-responsive" alt="" width="100" height="80" />
-> #### The Radio Astronomy Club, BITS Pilani
+#### The Radio Astronomy Club, BITS Pilani
 
 > Deep Learning & Data Analysis team
 <br/>
@@ -41,7 +41,7 @@ ___
 
 <br/>
 <img src="img/sally.png" class="img-responsive" alt="" width="120" height="80" />
-> #### Sally Robotics, BITS Pilani
+#### Sally Robotics, BITS Pilani
 
 > SLAM researcher in SLAM team
 <br/>
@@ -50,7 +50,7 @@ ___
 
 <br/>
 <img src="img/csa.png" class="img-responsive" alt="" width="80" height="80" />
-> #### Computer Science Association, BITS Pilani
+#### Computer Science Association, BITS Pilani
 
 > Machine Learning member in ML SIG
 <br/>
