@@ -109,10 +109,17 @@ ___
 
 
 ##### Look me up on
-- <img src="img/github.png" class="img-responsive" alt="" width="20" height="20" /> [GitHub](https://github.com/kanishk598)
-- <img src="img/linkedin.png" class="img-responsive" alt="" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/kanishk-vishwakarma-880457190/)
-- <img src="img/facebook.png" class="img-responsive" alt="" width="20" height="20" /> [Facebook](https://www.facebook.com/kanishk.vishwakarma.3/)
-- <img src="img/insta.png" class="img-responsive" alt="" width="20" height="20" /> [Instagram](https://www.instagram.com/konixboi/)
+- **<img src="img/github.png" class="img-responsive" alt="" width="20" height="20" /> [GitHub](https://github.com/kanishk598)**
+- **<img src="img/linkedin.png" class="img-responsive" alt="" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/kanishk-vishwakarma-880457190/)**
+- **<img src="img/facebook.png" class="img-responsive" alt="" width="20" height="20" /> [Facebook](https://www.facebook.com/kanishk.vishwakarma.3/)**
+- **<img src="img/insta.png" class="img-responsive" alt="" width="20" height="20" /> [Instagram](https://www.instagram.com/konixboi/)**
+
+<br/>
+
+___
+
+<br/>
+
 
 **Contact me**
 - **<a href="mailto:f20190315@pilani.bits-pilani.ac.in">Institute Email: f20190315@pilani.bits-pilani.ac.in</a>**
