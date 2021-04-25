@@ -6,7 +6,7 @@
 
 ### About Me
 
-<img src="img/cropped.png" class="img-responsive" alt="" width="80" height="80" />
+<img src="img/cropped.png" class="img-responsive" alt="" width="130" height="130" />
 
 My name is Kanishk Vishwakarma. I’m a B.E. Mechanical Engineering student at BITS Pilani, India, currently in my sophomore year. 
 
