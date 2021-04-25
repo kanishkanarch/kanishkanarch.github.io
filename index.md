@@ -26,6 +26,7 @@ ___
 #### Intelligent Mobility Labs, Bengaluru
 
 Robotics Engineer in ROS team
+<br/>
 November 2020 - Present
 
 
@@ -34,6 +35,7 @@ November 2020 - Present
 #### The Radio Astronomy Club, BITS Pilani
 
 Deep Learning & Data Analysis team
+<br/>
 September 2020 - Present
 
 
@@ -42,6 +44,7 @@ September 2020 - Present
 #### Sally Robotics, BITS Pilani
 
 SLAM researcher in SLAM team
+<br/>
 May 2020 - Present
 
 
@@ -50,6 +53,7 @@ May 2020 - Present
 #### Computer Science Association, BITS Pilani
 
 Machine Learning member in ML SIG
+<br/>
 January 2020 - Present
 
 
@@ -65,14 +69,16 @@ ___
 
 #### Birla Institute of Technology and Science, Pilani, India
 
-B.E. Mechanical Engineering (2019-2023)
+B.E. Mechanical Engineering 
+<br/>
+August 2019 - May 2023
 
 
 <br/>
 <img src="img/dav.png" class="img-responsive" alt="" width="100" height="80" />
 
 #### DAV Public School, Sector 14, Faridabad, Haryana, India
-
+<br/>
 2004-2018
 
 
