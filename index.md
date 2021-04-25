@@ -113,3 +113,8 @@ ___
 - <img src="img/linkedin.png" class="img-responsive" alt="" width="20" height="20" /> [LinkedIn](https://www.linkedin.com/in/kanishk-vishwakarma-880457190/)
 - <img src="img/facebook.png" class="img-responsive" alt="" width="20" height="20" /> [Facebook](https://www.facebook.com/kanishk.vishwakarma.3/)
 - <img src="img/insta.png" class="img-responsive" alt="" width="20" height="20" /> [Instagram](https://www.instagram.com/konixboi/)
+
+Contact me on
+- <a href="mailto:f20190315@pilani.bits-pilani.ac.in">My Institute Email</a>
+- <a href="mailto:kanishk.vishwa2001@gmail.com">My Personal Email</a>
+- <a href="tel:+91-9818393114">My Phone</a>
