@@ -25,7 +25,7 @@ November 2020 - Present
 
 
 
-<img src="img/trac.png" class="img-responsive" alt="" width="80" height="80" />
+<img src="img/trac.png" class="img-responsive" alt="" width="100" height="80" />
 #### The Radio Astronomy Club, BITS Pilani
 
 Deep Learning & Data Analysis team
@@ -33,7 +33,7 @@ September 2020 - Present
 
 
 
-<img src="img/sally.png" class="img-responsive" alt="" width="80" height="80" />
+<img src="img/sally.png" class="img-responsive" alt="" width="100" height="80" />
 #### Sally Robotics, BITS Pilani
 
 SLAM researcher in SLAM team
