@@ -1,6 +1,5 @@
 ## Welcome to my website
 
-### [My Resume](https://www.overleaf.com/read/hrdhdsjjkcgn)
 
 
 <br/>
@@ -10,7 +9,9 @@
 My name is Kanishk Vishwakarma. I’m a B.E. Mechanical Engineering student at BITS Pilani, India, currently in my sophomore year. 
 
 My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
+
 ___
+
 ### Experience
 
 <br/>
@@ -85,6 +86,10 @@ ___
 
 
 - **Practices:** Object Oriented Programming, Data Structures & Algorithms, Robotics,Robot Guidance, Navigation & Control, Machine Learning, Deep Learning, ComputerVision, Visual & Visual-Inertial SLAM, Full Stack Web Development
+
+<br/>
+
+### [My Resume](https://www.overleaf.com/read/hrdhdsjjkcgn)
 
 ___
 
