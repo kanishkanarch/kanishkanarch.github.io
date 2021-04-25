@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-### [Resume](https://www.overleaf.com/read/hrdhdsjjkcgn)
+### [My Resume](https://www.overleaf.com/read/hrdhdsjjkcgn)
 
 
 ### About Me
@@ -9,7 +9,13 @@ My name is Kanishk Vishwakarma. I’m a B.E. Mechanical Engineering student at B
 
 My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
 
+
+___
+
+
 ### Experience
+
+
 
 <img src="img/iml.png" class="img-responsive" alt="" width="80" height="80" />
 #### Intelligent Mobility Labs, Bengaluru
@@ -17,11 +23,15 @@ My interests lie in robotics research, particularly autonomous navigation and co
 Robotics Engineer in ROS team
 November 2020 - Present
 
+
+
 <img src="img/trac.png" class="img-responsive" alt="" width="80" height="80" />
 #### The Radio Astronomy Club, BITS Pilani
 
 Deep Learning & Data Analysis team
 September 2020 - Present
+
+
 
 <img src="img/sally.png" class="img-responsive" alt="" width="80" height="80" />
 #### Sally Robotics, BITS Pilani
@@ -29,11 +39,15 @@ September 2020 - Present
 SLAM researcher in SLAM team
 May 2020 - Present
 
+
+
 <img src="img/csa.png" class="img-responsive" alt="" width="80" height="80" />
 #### Computer Science Association, BITS Pilani
 
 Machine Learning member in ML SIG
 January 2020 - Present
+
+___
 
 ### Education
 
@@ -48,6 +62,24 @@ B.E. Mechanical Engineering (2019-2023)
 #### DAV Public School, Sector 14, Faridabad, Haryana, India
 
 2004-2018
+
+___
+
+
+##### Programming & Tools:Python, C++, Bash, LaTeX, JavaScript, HTML & CSS,SQL, Jupyter Notebook, Conda
+
+##### Operating Systems:MacOS, Windows 7/8/10, GNU/Linux (Ubuntu 16.04/20.04)
+
+##### Software and Tools:Git, Docker, Robot Operating System (Kinetic, Melodic &Noetic), RVIZ, Gazebo, Robot Web Tools, MySQL, Django, LTSpice, AutoCAD
+
+##### Libraries:STL, PyTorch (Torch Vision), Numpy, Scipy, Pandas, MatPlotLib, Seaborn
+
+##### Practices:Object Oriented Programming, Data Structures & Algorithms, Robotics,Robot Guidance, Navigation & Control, Machine Learning, Deep Learning, ComputerVision, Visual & Visual-Inertial SLAM, Full Stack Web Development
+
+
+
+___
+
 
 ##### Look me up on
 - <img src="img/github.png" class="img-responsive" alt="" width="20" height="20" /> [GitHub](https://github.com/kanishk598)
