@@ -33,7 +33,7 @@ September 2020 - Present
 
 
 
-<img src="img/sally.png" class="img-responsive" alt="" width="100" height="80" />
+<img src="img/sally.png" class="img-responsive" alt="" width="120" height="80" />
 #### Sally Robotics, BITS Pilani
 
 SLAM researcher in SLAM team
