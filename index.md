@@ -10,8 +10,8 @@
 My name is Kanishk Vishwakarma. I’m a B.E. Mechanical Engineering student at BITS Pilani, India, currently in my sophomore year. 
 
 My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
-<br/><br/>
 ___
+<br/><br/>
 ### Experience
 
 <br/>
@@ -46,8 +46,9 @@ Machine Learning member in ML SIG
 January 2020 - Present
 
 
-<br/>
 ___
+<br/>
+
 
 
 ### Education
@@ -67,8 +68,8 @@ B.E. Mechanical Engineering (2019-2023)
 2004-2018
 
 
-<br/>
 ___
+<br/>
 
 
 #### Skills
@@ -89,9 +90,9 @@ ___
 
 - **Practices:** Object Oriented Programming, Data Structures & Algorithms, Robotics,Robot Guidance, Navigation & Control, Machine Learning, Deep Learning, ComputerVision, Visual & Visual-Inertial SLAM, Full Stack Web Development
 
+___
 
 <br/><br/>
-___
 
 ##### Look me up on
 - <img src="img/github.png" class="img-responsive" alt="" width="20" height="20" /> [GitHub](https://github.com/kanishk598)
