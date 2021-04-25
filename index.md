@@ -74,6 +74,7 @@ ___
 #### Skills
 
 <br/>
+
 - **Programming & Tools:** Python, C++, Bash, LaTeX, JavaScript, HTML & CSS,SQL, Jupyter Notebook, Conda
 
 
