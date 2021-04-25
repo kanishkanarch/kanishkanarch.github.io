@@ -6,6 +6,8 @@
 
 ### About Me
 
+<img src="img/cropped.png" class="img-responsive" alt="" width="80" height="80" />
+
 My name is Kanishk Vishwakarma. I’m a B.E. Mechanical Engineering student at BITS Pilani, India, currently in my sophomore year. 
 
 My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
