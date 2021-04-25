@@ -1,44 +1,22 @@
 ## Welcome to my website
-<img src="img/cropped.png" class="img-responsive" alt="" width="60" height="60">
 
-I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. I am a part of the SLAM subsystem (Simultaneous Localization & Mapping) at Sally Robotics, a robotics student research club at BITS Pilani, which works on Autonomous Driving. I am also a part of The Radio Astronomy Club, TRAC for short, where I analyze Radio & Gravitational astronomical data with state-of-the-art libraries like AstroPy, PyCBC & Bilby. I am also a Robotics Engineer at Intelligent Mobility Labs, a robotics research lab turned startup targeting India's last-mile delivery robot market. Currently working on 3D inpainting & Deep Learning, robot navigation, trying to make sense of the Vela Pulsar data & working on Sky Watch Array Network.
+My name is Kanishk Vishwakarma. I’m a B.E. Mechanical Engineering student at BITS Pilani, India, currently in my sophomore year. 
 
-I like reading on diverse topics like Mathematics, Philosophy, History, Electronics, and self-help books. These days I'm learning PyTorch from the book Deep Learning with PyTorch's TorchVision by Eli et al., Pro Git by Scott & Ben, and many exciting research papers on Deep Learning, Robotics & Astronomy.
-
-Apart from academics, AI & astronomy, I like to run, play instrumental spanish flamenco guitar, and sometimes piano.
+My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
 
 
-[LinkedIn](https://www.linkedin.com/in/kanishk-vishwakarma-880457190/)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+<img src="img/bits.png" class="img-responsive" alt="" width="80" height="80" />
+#### Birla Institute of Technology and Science, Pilani, India
+B.E. Mechanical Engineering (2019-2023)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="img/dav.png" class="img-responsive" alt="" width="80" height="80" />
+#### DAV Public School, Sector 14, Faridabad, Haryana, India
+2004-2018
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kanishk598/Kanishk598.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+##### Look me up on
+- [GitHub](https://github.com/kanishk598)
+- [LinkedIn](https://www.linkedin.com/in/kanishk-vishwakarma-880457190/)
+- [Facebook](https://www.facebook.com/kanishk.vishwakarma.3/)
+- [Instagram](https://www.instagram.com/konixboi/)
