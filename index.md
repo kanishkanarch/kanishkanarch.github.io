@@ -9,14 +9,14 @@
 <table>
 
 <tr>
-<td>
+<td style="width:200px">
 
-I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
+<img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" />
 
 </td>
 <td>
 
-<img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" />
+I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.
 
 </td>
 </tr>
