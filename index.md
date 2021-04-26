@@ -6,10 +6,10 @@
 
 
 
-<table>
+<table style="width:100%">
   <tr>
-    <th><img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" /></th>
-    <td>I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.</td>
+    <th style="width:40%"><img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" /></th>
+    <td style="width:60%">I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.</td>
   </tr>
 </table>
 
