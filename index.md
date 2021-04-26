@@ -6,11 +6,34 @@
 
 
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">I'm a 2nd-year undergraduate student at BITS Pilani, majoring in Mechanical Engineering. My interests lie in robotics research, particularly autonomous navigation and computer vision. I'm fascinated by how machines can contribute more to a sustainable future. In my free time, you may find me reading books, playing guitar or running.</b></td>
-    <td><b style="font-size:30px"><img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" /></b></td>
- </tr>
+<table>
+<tr>
+<th> loo </th>
+<th> jar </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 2;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int bar() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
 
 
 <img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" />
