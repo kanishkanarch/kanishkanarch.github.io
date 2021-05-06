@@ -1,7 +1,10 @@
 ## Welcome to my website
 
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="kanishkvishwakarma598" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kanishkvishwakarma598?trk=profile-badge">Kanishk Vishwakarma</a></div>
+              
 <br/>
 
 <img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" />
