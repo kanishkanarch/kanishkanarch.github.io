@@ -1,9 +1,6 @@
 ## Welcome to my website
 
 
-
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="kanishkvishwakarma598" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kanishkvishwakarma598?trk=profile-badge">Kanishk Vishwakarma</a></div>
               
 <br/>
 
