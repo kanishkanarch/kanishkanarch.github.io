@@ -23,36 +23,55 @@ ___
 <img src="img/iml.png" class="img-responsive" alt="" width="80" height="80" />
 #### Intelligent Mobility Labs, Bengaluru
 
-> Robotics Engineer in ROS team
+> **Robotics Engineer in ROS team** November 2020 - Present
+
 <br/>
-> November 2020 - Present
+> Worked on designing an advanced dynamic waypoints follower.
+> Worked on the Navigation Stack.
+> Made a multiplexer for different velocity command inputs.
+> Implemented ORB-SLAM3.
+> Made a web-based controller for robot using ROSLIBJS.
 
 
 <br/>
 <img src="img/trac.png" class="img-responsive" alt="" width="100" height="80" />
 #### The Radio Astronomy Club, BITS Pilani
 
-> Deep Learning & Data Analysis team
+> **Deep Learning & Data Analysis team** September 2020 - Present
+
 <br/>
-> September 2020 - Present
 
 
 <br/>
 <img src="img/sally.png" class="img-responsive" alt="" width="120" height="80" />
 #### Sally Robotics, BITS Pilani
 
-> SLAM researcher in SLAM team
+> **SLAM researcher in SLAM team** May 2020 - Present
+
 <br/>
-> May 2020 - Present
+> Built the FAST Algorithms from scratch in C++.
+> Implemented LSD-SLAM & saved point cloud for future evaluations.
+> Currently working on 3D inpainting research with the SLAM team & CV team.
+
 
 
 <br/>
 <img src="img/csa.png" class="img-responsive" alt="" width="80" height="80" />
 #### Computer Science Association, BITS Pilani
 
-> Machine Learning member in ML SIG
+> **Machine Learning member in ML SIG** January 2020 - Present
+
 <br/>
-> January 2020 - Present
+> Built a flower classifier for iris dataset using single decision boundaries in logistic
+regression & K-nearest neighbours algorithms.
+> Built asteroid classifier using K-nearest neighbours algorithm.
+> Built an MNIST classifier using a fully-functional trainable vanilla neural net-
+work with Numpy.
+> Hosted Mukesh Jain & Vikas Ramachandra as two of the ten speakers for
+Alumni Research Talks, Edition 9 (January 2021).
+
+<br/>
+
 
 
 ___
@@ -140,12 +159,12 @@ ___
 **Contact me**
 
 
-> [![Institute Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20190315@pilani.bits-pilani.ac.in)
+> Institute Email: [![Institute Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20190315@pilani.bits-pilani.ac.in)
 
 
-> [![Personal Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishk.vishwa2001@gmail.com)
+> Personal Email: [![Personal Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishk.vishwa2001@gmail.com)
 
 
-> **<a href="tel:+919818393114">Phone: +91 9818393114</a>**
+> Phone and WhatsApp: [![WhatsApp Me](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917011811125)
 
 
