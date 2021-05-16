@@ -113,17 +113,21 @@ ___
 <br/>
 
 
+
+
+
+
 **Look me up on**
--   **<img src="img/github.png" class="img-responsive" alt="" width="20" height="20" />   [GitHub](https://github.com/kanishk598)**
+>   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishk598)
 
 
--   **<img src="img/linkedin.png" class="img-responsive" alt="" width="20" height="20" />   [LinkedIn](https://www.linkedin.com/in/kanishk-vishwakarma-880457190/)**
+>   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanishk598/)
 
 
--   **<img src="img/facebook.png" class="img-responsive" alt="" width="20" height="20" />   [Facebook](https://www.facebook.com/kanishk.vishwakarma.3/)**
+>   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kanishk.vishwakarma.3)
 
 
--   **<img src="img/insta.png" class="img-responsive" alt="" width="20" height="20" />   [Instagram](https://www.instagram.com/konixboi/)**
+>   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/konixboi)
 
 
 <br/>
@@ -136,12 +140,12 @@ ___
 **Contact me**
 
 
-- **<a href="mailto:f20190315@pilani.bits-pilani.ac.in">Institute Email: f20190315@pilani.bits-pilani.ac.in</a>**
+> [![Institute Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:f20190315@pilani.bits-pilani.ac.in)
 
 
-- **<a href="mailto:kanishk.vishwa2001@gmail.com">Personal Email: kanishk.vishwa2001@gmail.com</a>**
+> [![Personal Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishk.vishwa2001@gmail.com)
 
 
-- **<a href="tel:+919818393114">Phone: +91 9818393114</a>**
+> **<a href="tel:+919818393114">Phone: +91 9818393114</a>**
 
 
