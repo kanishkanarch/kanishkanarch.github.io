@@ -21,7 +21,7 @@ ___
 
 <br/>
 #### Intelligent Mobility Labs, Bengaluru
-<img src="img/iml.png" class="img-responsive" alt="" width="80" height="80" />
+<p id="round"><img src="img/iml.png" class="img-responsive" alt="" width="80" height="80" /></p>
 
 > **Robotics Engineer in ROS team** November 2020 - Present
 
@@ -89,7 +89,7 @@ ___
 
 
 <br/>
-<p id="round"><img src="img/dav.png" class="img-responsive" alt="" width="100" height="80" /></p>
+<img src="img/dav.png" class="img-responsive" alt="" width="100" height="80" />
 
 #### DAV Public School, Sector 14, Faridabad, Haryana, India
 > CBSE
