@@ -1,3 +1,11 @@
+    <style>
+      #round {
+      border-radius:10px;
+      }
+    </style>
+
+
+
 ## Welcome to my website
 
 
@@ -22,6 +30,8 @@ ___
 <br/>
 #### Intelligent Mobility Labs, Bengaluru
 <p id="round"><img src="img/iml.png" class="img-responsive" alt="" width="80" height="80" /></p>
+
+
 
 > **Robotics Engineer in ROS team** November 2020 - Present
 
