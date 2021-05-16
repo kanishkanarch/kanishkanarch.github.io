@@ -25,7 +25,7 @@ ___
 
 > **Robotics Engineer in ROS team** November 2020 - Present
 
-<br/>
+
 > Worked on designing an advanced dynamic waypoints follower.
 > Worked on the Navigation Stack.
 > Made a multiplexer for different velocity command inputs.
@@ -48,7 +48,6 @@ ___
 
 > **SLAM researcher in SLAM team** May 2020 - Present
 
-<br/>
 > Built the FAST Algorithms from scratch in C++.
 > Implemented LSD-SLAM & saved point cloud for future evaluations.
 > Currently working on 3D inpainting research with the SLAM team & CV team.
@@ -61,7 +60,6 @@ ___
 
 > **Machine Learning member in ML SIG** January 2020 - Present
 
-<br/>
 > Built a flower classifier for iris dataset using single decision boundaries in logistic
 regression & K-nearest neighbours algorithms.
 > Built asteroid classifier using K-nearest neighbours algorithm.
