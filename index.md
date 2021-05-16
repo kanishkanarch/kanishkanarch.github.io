@@ -89,7 +89,7 @@ ___
 
 
 <br/>
-<img src="img/dav.png" class="img-responsive" alt="" width="100" height="80" />
+<p id="round"><img src="img/dav.png" class="img-responsive" alt="" width="100" height="80" /></p>
 
 #### DAV Public School, Sector 14, Faridabad, Haryana, India
 > CBSE
