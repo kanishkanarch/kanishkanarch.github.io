@@ -4,7 +4,7 @@
               
 <br/>
 
-<img src="img/cropped.png" class="img-responsive" alt="" width="200" height="200" />
+
 
 ### About Me
 
