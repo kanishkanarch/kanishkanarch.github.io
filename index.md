@@ -104,17 +104,6 @@ ___
 #### Skills
 
 
-<a href="https://www.python.org"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="Python" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
-<a href="https://isocpp.org/"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="C++" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
-<a href="https://html.spec.whatwg.org/"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"/> </a>
-<a href="https://www.javascript.com/"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="JavaScript" width="40px" src="https://www.vhv.rs/dpng/d/456-4562295_library-of-javascript-icon-graphic-freeuse-png-files.png"/> </a>
-<a href="https://git-scm.com/"  target="_blank" rel="noopener noreferrer"> <img align="left" alt="git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
-<a href="https://github.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="GitHub" width="40px" src="https://distreau.com/github.svg" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://www.ros.org/" target="_blank" rel="noopener noreferrer"><img align="left" alt="git" width="40px" src="https://answers.ros.org/upfiles/14554624266871161.png"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer"><img align="left" alt="git" width="50px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/></a>
-
-
 - **Programming & Tools:** Python, C++, Bash, LaTeX, JavaScript, HTML & CSS,SQL, Jupyter Notebook, Conda
 
 
