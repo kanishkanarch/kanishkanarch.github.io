@@ -25,7 +25,7 @@ ___
 
 
 
-> **Robotics Engineer in ROS team** November 2020 - Present
+> **Robotics Engineer in ROS team** November 2020 - July 2021
 
 > Worked on designing an advanced dynamic waypoints follower.
 > Worked on the Navigation Stack.
