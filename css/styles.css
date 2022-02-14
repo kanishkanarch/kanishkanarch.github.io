@@ -2765,6 +2765,12 @@ img.u-pull-left {
     margin : var(--vspace-0_5) var(--vspace-0_875) var(--vspace-0_5) 0;
 }
 
+/* rounded corners
+ */
+img.my-rounded-corners {
+  border-radius: 50px;
+}
+
 /* responsive video container
  */
 .video-container {
